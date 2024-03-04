@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikrammert
 - 💫 About Me:
-- 🔭 I’m work in Robomotion IO
+- 🔭 I’m open to work
 - 🌱 I’m currently learning
 
 ## 🌐 Socials:
