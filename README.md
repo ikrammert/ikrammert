@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikrammert
 - 💫 About Me:
-- 🔭 I’m open to work
+- 🔭 I’m work at [Neredekal](www.neredekal.com)
 - 🌱 I’m currently learning
 
 ## 🌐 Socials:
